@@ -1,0 +1,4 @@
+module github.com/jfrog-solutiontest/circularb
+
+require github.com/jfrog-solutiontest/circulara FILLIN
+
